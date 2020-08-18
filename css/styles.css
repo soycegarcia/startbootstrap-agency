@@ -6067,7 +6067,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #98BFC4 !important;
+  background-color: #ded6ce !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6127,7 +6127,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #ded6ce !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -10146,7 +10146,7 @@ header.masthead .masthead-heading {
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(0, 183, 195, 0.9);
+  background: rgba(0, 183, 195, 0.0);
   align-items: center;
   justify-content: center;
   opacity: 0;
@@ -10157,12 +10157,12 @@ header.masthead .masthead-heading {
   color: white;
 }
 #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
-  opacity: 1;
+  opacity: 0;
 }
 #portfolio .portfolio-item .portfolio-caption {
   padding: 1.5rem;
   text-align: center;
-  background-color: #fff;
+  background-color: #ded6ce;
 }
 #portfolio .portfolio-item .portfolio-caption .portfolio-caption-heading {
   font-size: 1.5rem;
