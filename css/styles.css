@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #fed136;
+  color: #98BFC4;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2457,8 +2457,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #98BFC4;
+  border-color: #98BFC4;
 }
 .btn-primary:hover {
   color: #fff;
@@ -10071,7 +10071,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background-color: #00b7c3;
+    background-color: transparent;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
